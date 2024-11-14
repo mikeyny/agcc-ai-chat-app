@@ -24,8 +24,7 @@ This is a simple AI chat application developed for the African Girls Can Code Bo
 - Node.js
 - Express.js
 - Handlebars.js
-- OpenAI API
-- SQLite3
+- [Grok API](https://groq.com/)
 - Tailwind CSS
 
 ## Folder Structure
